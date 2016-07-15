@@ -15,7 +15,8 @@
     "select",
     "jquery",
     "options",
-    "checkbox"
+    "checkbox",
+    "nested"
   ],
   "homepage": "https://github.com/patosai/tree-multiselect",
   "ignore": [
